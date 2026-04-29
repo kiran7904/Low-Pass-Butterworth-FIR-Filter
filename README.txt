@@ -1,1 +1,1 @@
-Reading an audio signal and generating binary code for the signal and filtering the high band signals using MATLAB and Verilog 
+Small low-pass FIR filter project using MATLAB stimulus generation and signed Verilog RTL
