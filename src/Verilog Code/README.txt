@@ -1,1 +1,1 @@
-Verilog code for filtering the values of the signal that are above the stop band
+Verilog RTL for a small signed fixed-point low-pass FIR filter implementation
